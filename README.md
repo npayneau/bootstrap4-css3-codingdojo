@@ -28,9 +28,9 @@ npm run build
 
 ## Objectif
 Ajouter les bonnes classes bootstrap et CSS3 pour aboutir à la même présentation que le corrigé.
-La version final devra être responsive
+La version finale devra être responsive
 
-## Fonctionnalité présentée pendant le coding dojo
+## Fonctionnalités présentées pendant le coding dojo
 
 ## Navbar
 * Utiliation de  navbar-expand-lg, fixed-top et navbar-dark
