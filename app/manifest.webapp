@@ -1,0 +1,21 @@
+{
+	"version": "1.0.0",
+	"name": "Coding Dojo Front 2018",
+	"launch_path": "/index.html",
+	"description": "Coding Dojo Front 2018",
+	"icons": {
+		"128": "/img/icon-128x128.png"
+	},
+	"installs_allowed_from": [
+		"*"
+	],
+	"default_locale": "fr",
+	"permissions": {
+	},
+	"locales": {
+		"fr": {
+			"name": "Coding Dojo Front 2018",
+			"description": "Coding Dojo Front 2018"
+		}
+	}
+}

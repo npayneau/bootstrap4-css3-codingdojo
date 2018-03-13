@@ -1,0 +1,42 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+// Definition of new variables
+$black-with-transparency: rgba(0, 0, 0, 0.9);
+
+// Override default body and html
+body,
+html {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#header {
+   
+}
+
+footer {
+    
+}
+
+#forms-section {
+
+}
+
+section {
+    padding: 3.75rem 0;
+}
+
+.navbar-dark {
+
+}
+
+.navbar-custom-fixed {
+    background: $black-with-transparency;
+}
+
+#layout-section {
+    img {
+        height: 10rem;
+    }
+}
